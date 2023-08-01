@@ -66,7 +66,7 @@ incubator_lesson_site: "https://carpentries-incubator.github.io/iot-novice/"
 incubator_pre_survey: "https://forms.office.com/e/Sk844wKm2i"
 #
 # For an Incubator workshop, uncomment the line below and add the URL of your post-workshop survey
-incubator_post_survey: ""
+incubator_post_survey: "https://forms.office.com/e/aGr7khWwLv"
 #
 #------------------------------------------------------------
 
